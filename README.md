@@ -48,3 +48,7 @@ Download Python from [python.org](https://www.python.org/downloads/) and install
 Check it's installed:
 ```bash
 python --version
+
+All the Required libraries to be downloaded
+python -m pip install pynput scipy sounddevice pillow requests pywin32
+
